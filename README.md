@@ -7,8 +7,22 @@
 - Use `R` and `Tableau` to create insightful visuals
 
 ## Queries
-<img src="sql/01-sql.png" width ="50%"><img src="sql/02-sql.png" width ="50%">
-<img src="sql/03-sql.png" width ="50%"><img src="sql/04-sql.png" width ="50%">
+### Query 1
+- Get stats for top 100 goal scorers during their games over 2014-2020
+<img src="sql/01-sql.png" width ="50%">
+
+### Query 2
+- Get stats for all players with "Tour" as within their last or middle name
+<img src="sql/02-sql.png" width ="50%">
+
+### Query 3
+- Get season stats for each team in the EPL, exclude match outcome
+<img src="sql/03-sql.png" width ="50%">
+
+### Query 4
+- Get the data for each shot taken in the EPL
+<img src="sql/04-sql.png" width ="50%">
+
 
 ## Citations
 ### Data Source
