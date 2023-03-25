@@ -1,5 +1,5 @@
-# sql-soccer
-Using `SQL` and `R` to explore a 7 table soccer database
+# `SQL` Soccer
+*Exploring a 7 table soccer database, data from 2014-2020*
 
 ## Objectives
 - Import tables into local `postgreSQL` database
