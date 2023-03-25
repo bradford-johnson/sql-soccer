@@ -24,7 +24,7 @@
 <img src="sql/04-sql.png" width ="50%">
 
 ### Query 5
-- Get the shot data for every shot taken with league id
+- Get the shot data for every shot taken with league name
 <img src="sql/05-sql.png" width ="50%">
 
 ## Citations
