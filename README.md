@@ -1,6 +1,11 @@
 # sql-soccer
 Using `SQL` and `R` to explore a 7 table soccer database
 
+## Objectives
+- Import tables into local `postgreSQL` database
+- Create and execute queries to extract insights
+- Use `R` and `Tableau` to create insightful visuals
+
 ## Queries
 <img src="sql/01-sql.png" width ="50%"><img src="sql/02-sql.png" width ="50%">
 
