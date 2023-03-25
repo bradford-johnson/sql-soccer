@@ -8,7 +8,7 @@
 
 ## Queries
 <img src="sql/01-sql.png" width ="50%"><img src="sql/02-sql.png" width ="50%">
-<img src="sql/03-sql.png" width ="50%">
+<img src="sql/03-sql.png" width ="50%"><img src="sql/04-sql.png" width ="50%">
 
 ## Citations
 ### Data Source
