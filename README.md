@@ -1,6 +1,10 @@
 # sql-soccer
 Using `SQL` and `R` to explore a 7 table soccer database
 
+## Queries
+<img src="sql/01-sql.png" width ="48%"><img src="sql/02-sql.png" width ="48%">
+
+
 ## Citations
 ### Data Source
 - [Kaggle](https://www.kaggle.com/datasets/technika148/football-database?select=leagues.csv)
