@@ -1,5 +1,5 @@
 # `SQL` Soccer
-*Exploring a 7 table soccer database, data from 2014-2020*
+*Exploring a 7 table soccer database; features data from 5 professional leagues during 2014-2020*
 
 ## Objectives
 - Import tables into local `postgreSQL` database
