@@ -4,20 +4,20 @@ library(ggsoccer)
 shots <-read_csv("data/shots.csv") |>
   janitor::clean_names()
 
-shots <- shots |>
-  filter(shooter_id == 447 & situation == "DirectFreekick")
+kb <- shots |>
+  filter(shooter_id == 447)
 
-shots <- shots |>
+kb <- kb |>
   mutate(x = position_x * 100, y = position_y * 100)
 
-ggplot(shots) +
+ggplot(kb) +
   annotate_pitch(colour = "white",
                  fill   = "springgreen4",
                  limits = FALSE) +
-  geom_point(aes(x = x, y = y),
-             colour = "yellow",
-             size = 4) +
+  geom_bin_2d(aes(x = x, y = y), alpha = .5) +
   theme_pitch() +
   theme(panel.background = element_rect(fill = "springgreen4")) +
   coord_flip(xlim = c(49, 101)) +
+  scale_fill_continuous(type = "viridis") +
   scale_y_reverse()
+
