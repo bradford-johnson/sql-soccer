@@ -20,9 +20,12 @@
 <img src="sql/03-sql.png" width ="50%">
 
 ### Query 4
-- Get the data for each shot taken in the EPL
+- Get the play and shot data for each shot taken in the EPL
 <img src="sql/04-sql.png" width ="50%">
 
+### Query 5
+- Get the shot data for every shot taken with league id
+<img src="sql/05-sql.png" width ="50%">
 
 ## Citations
 ### Data Source
