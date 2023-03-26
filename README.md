@@ -9,7 +9,7 @@
 ## Queries
 ### Query 1
 - Get stats for top 100 goal scorers during their games over 2014-2020
-<img src="sql/01-sql.png" width ="50%">
+<img src="sql/01-sql.png" width ="70%">
 
 ### Query 2
 - Get stats for all players with "Tour" as within their last or middle name
