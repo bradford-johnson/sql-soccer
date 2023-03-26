@@ -4,7 +4,7 @@
 ## Objectives
 - Import tables into local `postgreSQL` database
 - Create and execute queries to extract insights
-- Use `R` and `Tableau` to create insightful visuals
+- Use `R` to create insightful visuals
 
 ## Queries
 ### Query 1
