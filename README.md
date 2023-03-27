@@ -4,28 +4,28 @@
 ## Objectives
 - Import tables into local `postgreSQL` database
 - Create and execute queries to extract insights
-- Use `R` and `Tableau` to create insightful visuals
+- Use `R` to create insightful visuals
 
 ## Queries
 ### Query 1
 - Get stats for top 100 goal scorers during their games over 2014-2020
-<img src="sql/01-sql.png" width ="50%">
+<img src="sql/01-sql.png" width ="90%">
 
 ### Query 2
 - Get stats for all players with "Tour" as within their last or middle name
-<img src="sql/02-sql.png" width ="50%">
+<img src="sql/02-sql.png" width ="90%">
 
 ### Query 3
 - Get season stats for each team in the EPL, exclude match outcome
-<img src="sql/03-sql.png" width ="50%">
+<img src="sql/03-sql.png" width ="90%">
 
 ### Query 4
 - Get the play and shot data for each shot taken in the EPL
-<img src="sql/04-sql.png" width ="50%">
+<img src="sql/04-sql.png" width ="90%">
 
 ### Query 5
 - Get the shot data for every shot taken with league name
-<img src="sql/05-sql.png" width ="50%">
+<img src="sql/05-sql.png" width ="90%">
 
 ## Citations
 ### Data Source
