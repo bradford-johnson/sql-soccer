@@ -63,7 +63,7 @@ ggplot() +
   geom_label(aes(x = 53, y = 80, label = name), alpha = .5, fill = "springgreen4", label.size = NA, family = font_1, size = 7, color = "white") +
   theme_pitch() +
   theme(panel.background = element_rect(fill = "springgreen4")) +
-  coord_flip(xlim = c(49, 101)) +
+  coord_flip(xlim = c(52.25, 101)) +
   scale_fill_viridis_c(option = "plasma") +
   scale_y_reverse() +
   facet_wrap(~name) +
@@ -82,5 +82,5 @@ ggplot() +
         plot.background = element_rect(color = bg_1, fill = bg_1),
         panel.background = element_rect(color = bg_1, fill = bg_1))
 
-ggsave("visuals/fav-players.png", width = 6, height = 4.5)
+ggsave("visuals/fav-players-1.png", width = 6, height = 4.5)
 
