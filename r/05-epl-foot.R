@@ -30,7 +30,7 @@ shots <- shots |>
 
 #---- create labs ----
 title = "Premier League Goals 2014-2020"
-subtitle = "Excluding PKs, 36.8% percent of goals scored were shot with the left foot."
+subtitle = "Excluding PKs, 36.8% of goals scored were shot with the left foot."
 
 caption = paste0(
   "<span style='font-family:fb;color:#ffffff;'>&#xf09b;</span>", "<span style='font-family:sans;color:#008b45;'>.</span>",
